@@ -1,0 +1,8 @@
+#!/bin/sh
+GIT_PATH=$HOME/Git
+
+BRANCHES_LIST[0]="Branch1"
+BRANCHES_LIST[1]="Branch2"
+
+BRANCH_PATH[0]=$GIT_PATH/Branch1_Path
+BRANCH_PATH[1]=$GIT_PATH/Branch2_Path
